@@ -12,3 +12,5 @@
    installation.
 
    Do not copy language files of apps that are not installed!
+
+   If you are running PHP 5.3.x please make sure to use an up to date version like PHP 5.3.9!
